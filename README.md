@@ -1,7 +1,5 @@
 👨‍💻 **KI-gestützter Webentwickler** 🚀
 
-📍 Raum Wittenberg, Deutschland 🇩🇪
-
 Profilierter Entwickler mit Spezialisierung auf die intelligente Integration künstlicher Intelligenz in moderne Webentwicklungsprozesse. Mein Fokus liegt auf der Anwendung von KI-Modellen zur Effizienzsteigerung und zur Realisierung innovativer Lösungen im Frontend-Bereich.
 
 **Kompetenzen:**
@@ -16,6 +14,10 @@ Profilierter Entwickler mit Spezialisierung auf die intelligente Integration kü
 
 Meine Repositories demonstrieren die praktische Anwendung von KI in verschiedenen Webentwicklungsszenarien, von der automatisierten Generierung von UI-Komponenten bis zur Entwicklung intelligenter Frontend-Lösungen. Der Fokus liegt auf der Skalierbarkeit, Wartbarkeit und Performance der entwickelten Anwendungen. 📂
 
-**Kontakt:**
+**Kontakt & Inspiration:**
+
+Folge meinen kreativen Experimenten und visuellen Einblicken in die Welt von KI und Design auf Instagram:
+
+📸 [instagram.com/motion.5m](https://www.instagram.com/motion.5m)
 
 Offen für professionelle Anfragen und Kooperationen im Bereich der KI-gestützten Webentwicklung. 📧
