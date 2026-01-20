@@ -1,11 +1,11 @@
-<h1 align="center">Hallo, ich bin Luka 👋</h1>
+<h1 align="center">Hi, I'm Luka 👋</h1>
 
 <p align="center">
-  Softwareentwickler & AI Engineer &nbsp;|&nbsp; Full-Stack Web Development &nbsp;|&nbsp; Automation & Developer Experience
+  Software Engineer & AI Engineer &nbsp;|&nbsp; Full-Stack Web Development &nbsp;|&nbsp; Automation & Developer Experience
 </p>
 
 <p align="center">
-  Ich konzipiere und entwickle skalierbare Anwendungen, integriere moderne KI-Systeme in bestehende Workflows und optimiere End-to-End-Softwareprozesse.
+  I design and build scalable applications, integrate modern AI systems into existing workflows and optimize end‑to‑end software processes.
 </p>
 
 ---
@@ -21,18 +21,18 @@
 
 ---
 
-## 🧑‍💻 Profil
+## 🧑‍💻 Profile
 
-- Softwareentwickler mit Schwerpunkt auf modernen Web-Technologien, APIs und skalierbaren Architekturen  
-- Fundierte Erfahrung im Einsatz von Large Language Models, KI-Tooling und automatisierten Developer-Workflows  
-- Hintergrund in Game-/Server-Development (u. a. FiveM), technischer Konzeption und UX-orientierten Interfaces  
-- Starkes Interesse an zukunftsorientierten Projekten an der Schnittstelle von Engineering, KI und Produktentwicklung  
+- Software engineer with a strong focus on modern web technologies, APIs and scalable architectures  
+- Solid experience with Large Language Models, AI tooling and automated developer workflows  
+- Background in game/server development (including FiveM), technical concepts and UX‑driven interfaces  
+- Highly interested in forward‑looking projects at the intersection of engineering, AI and product development  
 
 ---
 
 ## 💻 Tech Stack
 
-**Sprachen & Frameworks**  
+**Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
@@ -50,7 +50,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white)
 
-**Backend & Infrastruktur**  
+**Backend & Infrastructure**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
@@ -72,12 +72,12 @@
 
 ---
 
-## 🚀 Schwerpunkte & Interessen
+## 🚀 Focus & Interests
 
-- Entwicklung stabiler, wartbarer Webanwendungen mit Fokus auf Performance und Code-Qualität  
-- Integration von KI-Systemen (LLMs, Automatisierung, Prompt-Engineering) in reale Use-Cases  
-- Aufbau effizienter Developer-Workflows, Tooling und Infrastruktur für Teams & Projekte  
-- Verbindung von technischer Umsetzung, Benutzererlebnis und klarer Produktlogik  
+- Building reliable, maintainable web applications with a strong focus on performance and code quality  
+- Integrating AI systems (LLMs, automation, prompt engineering) into real‑world products and workflows  
+- Improving developer experience, tooling and infrastructure for teams and long‑term projects  
+- Connecting technical implementation, user experience and clear product thinking  
 
 ---
 
@@ -85,15 +85,15 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=imLuka063&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats von imLuka063" 
+    src="https://github-readme-stats.vercel.app/api?username=imLuka063&show_icons=true&theme=nord" 
+    alt="GitHub stats of imLuka063" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLuka063&layout=compact&theme=tokyonight" 
-    alt="Top-Sprachen von imLuka063" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLuka063&layout=compact&theme=nord" 
+    alt="Top languages of imLuka063" 
   />
 </p>
 
@@ -103,20 +103,20 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=default" 
+    src="https://github-readme-quotes-bay.vercel.app/quote?theme=nord&layout=default&font=default" 
     alt="Random Dev Quote" 
   />
 </p>
 
 ---
 
-## 🔝 Ausgewähltes Repository
+## 🔝 Featured Repository
 
 <p align="center">
   <a href="https://github.com/imLuka063/imLuka063">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=imLuka063&repo=imLuka063&theme=tokyonight" 
-      alt="Ausgewähltes Repository" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=imLuka063&repo=imLuka063&theme=nord" 
+      alt="Featured repository" 
     />
   </a>
 </p>
@@ -124,5 +124,5 @@
 ---
 
 <p align="center">
-  Interessiert an Austausch, Kooperationen oder Projekten im Bereich Softwareentwicklung & KI – gerne über Discord oder die genannten Socials melden.
+  Open to collaboration on software engineering and AI‑driven projects – feel free to reach out via Discord or any of the socials above.
 </p>
