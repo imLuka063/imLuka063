@@ -81,19 +81,6 @@
 
 ---
 
-## 🔝 Featured Repository
-
-<p align="center">
-  <a href="https://github.com/imLuka063/imLuka063">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=imLuka063&repo=imLuka063&theme=nord" 
-      alt="Featured repository" 
-    />
-  </a>
-</p>
-
----
-
 <p align="center">
   Open to collaboration on software engineering and AI‑driven projects – feel free to reach out via Discord or any of the socials above.
 </p>
