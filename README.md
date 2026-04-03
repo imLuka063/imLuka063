@@ -70,24 +70,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=imLuka063&show_icons=true&theme=nord" 
-    alt="GitHub stats of imLuka063" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLuka063&layout=compact&theme=nord" 
-    alt="Top languages of imLuka063" 
-  />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
