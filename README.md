@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hey, ich bin Luka 👋
+# Luka
 
-### Head Developer @ Life Visuals · FiveM · ESX · UI/UX · Lua · NUI
+### FiveM Developer · ESX · Lua · NUI · UI/UX
 
-[![Website](https://img.shields.io/badge/🌐_lifev.eu-0d1117?style=for-the-badge)](https://lifev.eu)
-[![Discord](https://img.shields.io/badge/Discord-Life_Visuals-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sHQRyQ8j6d)
-[![Mail](https://img.shields.io/badge/Email-lukalifev@outlook.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukalifev@outlook.de)
+[![Email](https://img.shields.io/badge/Email-lukalifev@outlook.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukalifev@outlook.de)
 
 </div>
 
@@ -14,13 +12,13 @@
 
 ## 🎯 Über mich
 
-Ich bin **Head Developer** bei **Life Visuals** – einem deutschen FiveM Roleplay-Projekt.
-Mein Fokus liegt auf performanten, produktionsreifen Scripts, modernen NUI-Interfaces und sauberer ESX-Integration.
+FiveM Developer mit Fokus auf performante Scripts, moderne NUI-Interfaces und saubere ESX-Integration.
+Ehemals **Head Developer** bei **Life Visuals** – einem der größten deutschen FiveM Roleplay-Projekte.
 
-- 🔧 Baue und pflege den kompletten **LifeV FiveM Server** (Scripts, HUD, Systeme)
-- 🎨 Designe **moderne NUI-Interfaces** mit Fokus auf UX und Performance
-- ⚡ Optimiere **Server-Performance** (sv_main, async DB, Thread-Management)
-- 📝 Entwickle vollständig dokumentierte, produktionsreife Ressourcen
+- 🔧 Spezialisiert auf **ESX Legacy** – Scripts, Systeme, HUDs
+- 🎨 **NUI / Frontend** mit Fokus auf Immersion und Performance
+- ⚡ **Server-Optimierung** – sv_main, async DB, Thread-Management
+- 📝 Vollständig dokumentierte, produktionsreife Ressourcen
 
 ---
 
@@ -46,38 +44,34 @@ Mein Fokus liegt auf performanten, produktionsreifen Scripts, modernen NUI-Inter
 
 ---
 
-## 🚀 Projekte (Auswahl)
+## 🚀 Projekte
 
 | Projekt | Beschreibung | Status |
 |---|---|---|
-| **LifeV Roleplay Portal** | Vollständiges Web-Portal für LifeV RP | 🟢 Live |
-| **Free FiveM HUD Modern** | Modernes FiveM HUD mit NUI (Open Source) | 🟢 Public |
-| **Lua Veil Guardian** | Performance & Security Layer für FiveM | 🔒 Private |
-| **Crimson Stand Core** | Core-Framework für LifeV Server | 🔒 Private |
-| **Showroom FiveM** | ESX Fahrzeug-Showroom mit Discord-Integration | 🟢 Public |
+| **LifeV Roleplay Portal** | Web-Portal für Life Visuals RP | ✅ Abgeschlossen |
+| **Free FiveM HUD Modern** | Modernes FiveM HUD mit NUI | 🟢 Public |
+| **Showroom FiveM** | ESX Fahrzeug-Showroom System | 🟢 Public |
+| **Lua Veil Guardian** | Performance & Security Layer | 🔒 Archiviert |
 
 ---
 
-## 🤝 Zusammenarbeit & Scripts
+## ██████████████████████████████
 
-> Interesse an unseren Scripts oder einer Zusammenarbeit?
-> **Erstelle einfach ein Ticket in unserem Discord** – dort kannst du unsere Ressourcen begutachten und Anfragen stellen.
+<div align="center">
 
-[![Discord Ticket öffnen](https://img.shields.io/badge/🎫_Ticket_öffnen-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sHQRyQ8j6d)
+```
+something is coming.
+```
 
----
+*kein Name. kein Datum. kein Hinweis.*
+*nur eines ist sicher — es wird das letzte sein.*
 
-## 🌐 Life Visuals
-
-> **Life Visuals** ist ein deutsches FiveM Roleplay-Projekt mit Fokus auf Immersion, Performance und modernes UI/UX-Design.
-
-[![lifev.eu](https://img.shields.io/badge/🌐_Website-lifev.eu-0d1117?style=for-the-badge)](https://lifev.eu)
-[![Discord](https://img.shields.io/badge/💬_Discord_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sHQRyQ8j6d)
+</div>
 
 ---
 
 <div align="center">
 
-*Head Developer @ Life Visuals · Frankfurt, Germany*
+*Frankfurt, Germany*
 
 </div>
