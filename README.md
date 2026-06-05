@@ -20,7 +20,7 @@ Mein Fokus liegt auf performanten, produktionsreifen Scripts, modernen NUI-Inter
 - 🔧 Baue und pflege den kompletten **LifeV FiveM Server** (Scripts, HUD, Systeme)
 - 🎨 Designe **moderne NUI-Interfaces** mit Fokus auf UX und Performance
 - ⚡ Optimiere **Server-Performance** (sv_main, async DB, Thread-Management)
-- 🤖 Nutze **AI-gestütztes Development** (Qouder, Claude) für schnelle Iteration
+- 📝 Entwickle vollständig dokumentierte, produktionsreife Ressourcen
 
 ---
 
@@ -46,14 +46,24 @@ Mein Fokus liegt auf performanten, produktionsreifen Scripts, modernen NUI-Inter
 
 ---
 
-## 🚀 Meine Projekte
+## 🚀 Projekte (Auswahl)
 
 | Projekt | Beschreibung | Status |
 |---|---|---|
 | **LifeV Roleplay Portal** | Vollständiges Web-Portal für LifeV RP | 🟢 Live |
-| **Free FiveM HUD Modern** | Modernes FiveM HUD (Open Source) | 🟢 Public |
+| **Free FiveM HUD Modern** | Modernes FiveM HUD mit NUI (Open Source) | 🟢 Public |
 | **Lua Veil Guardian** | Performance & Security Layer für FiveM | 🔒 Private |
 | **Crimson Stand Core** | Core-Framework für LifeV Server | 🔒 Private |
+| **Showroom FiveM** | ESX Fahrzeug-Showroom mit Discord-Integration | 🟢 Public |
+
+---
+
+## 🤝 Zusammenarbeit & Scripts
+
+> Interesse an unseren Scripts oder einer Zusammenarbeit?
+> **Erstelle einfach ein Ticket in unserem Discord** – dort kannst du unsere Ressourcen begutachten und Anfragen stellen.
+
+[![Discord Ticket öffnen](https://img.shields.io/badge/🎫_Ticket_öffnen-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sHQRyQ8j6d)
 
 ---
 
