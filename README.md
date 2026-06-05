@@ -13,7 +13,7 @@
 ## 🎯 Über mich
 
 FiveM Developer mit Fokus auf performante Scripts, moderne NUI-Interfaces und saubere ESX-Integration.
-Ehemals **Head Developer** bei **Life Visuals** – einem der größten deutschen FiveM Roleplay-Projekte.
+Developer & Designer bei **Life Visuals** – einem kleinen deutschen FiveM Dev/Design Team.
 
 - 🔧 Spezialisiert auf **ESX Legacy** – Scripts, Systeme, HUDs
 - 🎨 **NUI / Frontend** mit Fokus auf Immersion und Performance
